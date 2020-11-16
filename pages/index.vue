@@ -30,7 +30,7 @@ export default {
     }
   },
   head() {
-    const title = "Welcome to Socials a Student Community! | Been devloped by Xceldeveloper"
+    const title = "Welcome to Socials a Student Community! | Been developed by Xceldeveloper"
       return{
         title
       }

@@ -1,5 +1,7 @@
 # Socials | Xceldeveloper
 
+[demo url](https://xcelsocials.netlify.app/)
+
 > Student&#39;s Platform
 
 ## Build Setup
