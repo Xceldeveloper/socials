@@ -1,0 +1,42 @@
+{
+  "name": "Socials",
+  "version": "1.0.0",
+  "description": "Student&#39;s Platform",
+  "author": "Emiator Overcomer",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.0.45",
+    "@nuxtjs/axios": "^5.9.7",
+    "axios": "^0.19.2",
+    "color-thief": "^2.2.5",
+    "emoji-mart-vue": "^2.6.6",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.28",
+    "nuxt": "^2.0.0",
+    "textarea-caret": "^3.1.0",
+    "vue-at": "^2.3.2",
+    "vue-color-thief": "0.0.1",
+    "vue-cropperjs": "^4.1.0",
+    "vue-emoji-picker": "^1.0.1",
+    "vue-hashtag-textarea": "^0.3.7",
+    "vue-load-image": "^0.1.10",
+    "vue-masonry": "^0.11.8",
+    "vue-material-design-icons": "^4.4.0",
+    "vue-moment": "^4.1.0",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}
